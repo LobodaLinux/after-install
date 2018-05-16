@@ -5,7 +5,16 @@
 <b>sudo apt-get upgrade</b><br><p>
 <i> будет скачиваться и загружаться обновление для программ. когда попросит нажмешь (y)  и подождешь когда завершит.<br>
 после -- копируешь целиком вот эту команду, это репозитории с нужными для тебя (на мой взгляд) прогами</i><br><p>
-<b>sudo add-apt-repository -y ppa:webupd8team/sublime-text-3 ppa:webupd8team/sublime-text-3  ppa:otto-kesselgulasch/gimp-edge ppa:alexx2000/doublecmd ppa:atareao/telegram ppa:webupd8team/java ppa:nilarimogard/webupd8 ppa:webupd8team/tor-browser  ppa:webupd8team/brackets ppa:mystic-mirage/pycharm</b><br><p>
+<b><br>
+  sudo add-apt-repository -y ppa:webupd8team/sublime-text-3<br>
+  sudo add-apt-repository -y ppa:otto-kesselgulasch/gimp-edge<br>
+  sudo add-apt-repository -y ppa:alexx2000/doublecmd<br>
+  sudo add-apt-repository -y ppa:atareao/telegram<br>
+  sudo add-apt-repository -y ppa:webupd8team/java<br>
+  sudo add-apt-repository -y ppa:nilarimogard/webupd8<br> 
+  sudo add-apt-repository -y ppa:webupd8team/tor-browser<br> 
+  sudo add-apt-repository -y ppa:webupd8team/brackets<br> 
+  sudo add-apt-repository -y ppa:mystic-mirage/pycharm</b><br><p>
 <i> как добавит, снова</i><br><p>
 <b>sudo apt-get update</b><br><p>
 <i>после этого таким же образом вставляешь сие: </i><br>
